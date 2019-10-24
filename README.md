@@ -13,5 +13,6 @@ With a working smoke alarm system, we now progress to wireless access. Here I us
 
 ---
 The full python code can be found in UDP_Send.py, the full esp32 code can be found in Final.ino
+
 Details on the circuitry can be found at:
 https://201903cpsc33401.canvaspress.yale.edu/2019/10/24/smoke-detector/
