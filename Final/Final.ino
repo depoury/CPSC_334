@@ -10,7 +10,7 @@ const uint8_t l_bot_pin = 14;
 const uint8_t s_pin = 12;
 uint16_t THRESHOLD = 100;
 
-char* ssid = "Yuki_Smoke";  // Enter SSID here
+char* ssid = "Yuki_Smoker";  // Enter SSID here
 const char* password = "12345678";  //Enter Password here
 
 uint8_t SPEAKER = 1; //Default

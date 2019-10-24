@@ -14,8 +14,7 @@ L_Off = 'Lights Off'
 L_On = 'Lights On'
 Test = "Test"
 
-sock.sendto(Off, (UDP_IP, UDP_PORT))
+# Example Commands
+#sock.sendto(Off, (UDP_IP, UDP_PORT))
 #sock.sendto(On, (UDP_IP, UDP_PORT))
-#sock.sendto(L_Off, (UDP_IP, UDP_PORT))
-#sock.sendto(L_On, (UDP_IP, UDP_PORT))
-#sock.sendto(Test, (UDP_IP, UDP_PORT))
+sock.sendto(Test, (UDP_IP, UDP_PORT))
